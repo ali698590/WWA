@@ -4,6 +4,7 @@
 int main()
 {
 	srand(time(NULL));
+	// We Succesfully sent pull request
 
 }
 
